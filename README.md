@@ -1,400 +1,187 @@
 # Emela-ntouka
 
-> *"In the Congo swamps, the elephant killer waits."*
+> An elephant-sized, single-horned, semi-aquatic cryptid reported from the Likouala swamps of the Republic of the Congo and elsewhere in the Congo Basin; its Lingala name means 'killer of elephants'.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Sightings](https://img.shields.io/badge/sightings-30+-orange)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-unverified-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `emela-ntouka` |
 | **Category** | CRYPTID |
-| **Classification** | Cryptid Dinosaur / Ceratopsian-like |
-| **First Recorded** | 1980s (Western documentation) |
-| **Primary Region** | Congo Basin (Likouala swamp region) |
-| **Status** | Active |
+| **Subcategory** | Aquatic horned megafauna cryptid |
+| **First recorded** | 1954-01-01 |
+| **Primary range** | Reports concentrate in the Likouala swamp region of the Republic of the Congo, with adjacent reports from the Democratic Republic of the Congo, Cameroon, and (under different names) Zambia and east-central Africa |
+| **Status** | unverified |
 
 ---
-
 ## Overview
 
-Emela-ntouka, meaning "elephant killer" in Lingala, is a cryptid reported from the Congo Basin, particularly the Likouala swamp region. Described as elephant-sized or larger, brownish-gray in color, with a single ivory horn protruding from its snout, a heavy tail, and semi-aquatic habits.
-
-The creature is characterized as extremely aggressive, reportedly attacking elephants, hippopotamuses, and other large animals, goring them with its horn. Unlike the more famous Mokele-mbembe (long-necked dinosaur), Emela-ntouka is described as having a rhinoceros-like build.
-
-Local testimonies are remarkably consistent across different tribes in the region. No physical evidence has been obtained, and the creature remains entirely speculative. If it exists, some cryptozoologists theorize it could be a surviving ceratopsian dinosaur (Triceratops relative).
+Emela-ntouka, meaning 'killer of elephants' in Lingala, is a cryptid reported from the Likouala swamps of the Republic of the Congo and adjacent regions of the Congo Basin and possibly Cameroon. The name was first introduced into the scientific literature in 1954 by former Likouala game inspector Lucien Blancou in the journal 'Mammalia', who recorded local accounts of an aggressive, elephant-sized animal that attacked elephants, buffaloes, and hippopotamuses. Eyewitness reports describe a brownish to gray creature with a heavy build similar to a rhinoceros, a heavy tail, and a single ivory horn on its snout. The cryptid was investigated during Roy P. Mackal's 1980 and 1981 expeditions into the Likouala region, primarily aimed at the better-known Mokele-mbembe; Mackal favored an interpretation as a relict ceratopsian dinosaur, while Loren Coleman has argued for a semi-aquatic rhinoceros. No physical evidence has been recovered. The figure is classified as a cryptid rather than a folkloric being, but the underlying eyewitness corpus has not been verified by mainstream zoology.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Aseka-moke | Congo Basin |  |
+| Njago-gunda | Congo Basin |  |
+| Ngamba-namae | Congo Basin |  |
+| Chipekwe | Zambia / Bangweulu Swamps |  |
+| Irizima | Eastern DRC / Lake Edward |  |
 
-### Primary Name
-- **Emela-ntouka** — Lingala term meaning "elephant killer" (emela = killer, ntouka = elephant), named for its reported aggressive behavior toward elephants.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Elephant Killer | English | Direct translation |
-| Aseka-moke | Lingala | Regional variant name |
-| Njago-gunda | Local dialect | Local alternative name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Cryptid Dinosaur
-├── Subtype: Ceratopsian-like
-└── Variant: African
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Mokele-mbembe](/mokele-mbembe) | Regional cohabitant | More famous Congo cryptid, long-necked |
-| Ngoubou | Similar | Horned cryptid from Cameroon |
+- **Origin**: Lingala (Bantu language of the Congo Basin).
+- **Meaning**: 'Emela-ntouka' is glossed as 'killer of elephants' or 'one who eats / kills the tops of elephants', describing the creature's reputation for attacking and goring large animals.
+- **First use**: Documented in the cryptozoological literature with Lucien Blancou's 1954 article in 'Mammalia'.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Mokele-mbembe](../mokele-mbembe/) — _related_: Long-necked sauropod-like Congo Basin cryptid investigated by Mackal alongside Emela-ntouka.
+- [Mbielu-mbielu-mbielu](../mbielu-mbielu-mbielu/) — _related_: Plate-backed aquatic cryptid reported in the same region.
+- [Chipekwe](../chipekwe/) — _regional_variant_: Zambian / Bangweulu Swamps single-horned aquatic cryptid often equated with Emela-ntouka.
+- [Irizima](../irizima/) — _regional_variant_: Cryptid of Lake Edward sometimes grouped with Emela-ntouka in the cryptozoological literature.
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 1.5 - 2.5 meters (5 - 8 feet) | Very Low |
-| **Weight** | 4,000 - 7,000 kg (8,800 - 15,400 lbs) | Very Low |
-| **Coloration** | Brownish-gray, gray, dark brown | Very Low |
-| **Build** | Massive, rhinoceros-like, quadrupedal | Very Low |
+- **Height**: 2–3.5 meters _(low confidence)_
+- **Weight**: 2000–6000 kilograms _(low confidence)_
+- **Coloration**: brownish-gray, dark gray
+- **Morphology**: Reported as elephant-sized with a stocky, rhinoceros-like body, a single nasal horn, and a heavy tail; semi-aquatic in habit.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Horn | Single ivory horn on snout, rhinoceros-like | Always |
-| Tail | Heavy, muscular tail | Always |
-| Build | Massive, rhinoceros or ceratopsian-like body | Always |
-| Size | Elephant-sized or larger | Always |
+|---|---|---|
+| Single ivory horn | A single horn protruding from the snout, described as ivory-coloured. | always |
+| Rhinoceros-like build | Heavy, stocky body of approximately rhinoceros or elephant proportions. | always |
+| Heavy tail | A large, heavy tail; reports vary on length and shape. | common |
+| Semi-aquatic limbs | Reports describe a creature comfortable in shallow swamp water but coming onto land. | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Goring attack | Uses horn to gore large animals including elephants | Anecdotal |
-| Swimming/wading | Semi-aquatic, comfortable in water | Reported |
-| Extreme aggression | Attacks large animals unprovoked | Anecdotal |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Goring of large prey | Reportedly attacks elephants, buffaloes, and hippopotamuses with its horn when disturbed; the basis of its Lingala name. | common | reported |
+| Aquatic foraging | Reported to feed on aquatic vegetation and to inhabit shallow swamp lakes. | common | reported |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Unknown
-- **Disposition**: Extremely aggressive
-- **Social Structure**: Solitary
-- **Habitat Preference**: Swamps, rivers, dense jungle, water holes
-- **Diet**: Unknown (possibly herbivorous)
-- **Notable Behaviors**: Attacks elephants and hippos with horn
+- **Activity**: unknown
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: shallow swamps, lakes within the Likouala swamp system, Congo River basin tributaries
+- **Diet**: Reported as herbivorous (aquatic vegetation), despite its aggressive reputation toward other large animals.
 
 ---
+## Distribution
 
-## Geographic Distribution
+Reports concentrate in the Likouala swamp region of the Republic of the Congo, with adjacent reports from the Democratic Republic of the Congo, Cameroon, and (under different names) Zambia and east-central Africa.
 
-### Primary Range
+### Hotspots
 
-Congo Basin, particularly Likouala swamp region in Republic of the Congo. Reports concentrated in remote, difficult-to-access swampland in northern Congo.
-
-### Sighting Hotspots
-
-| Location | Region | Sighting Count | Notable Period |
-|----------|--------|----------------|----------------|
-| Likouala Region | Northern Congo | 20+ | 1980s-2000s |
-| Congo Basin Swamps | Central Africa | 10+ | Various |
-
-### Distribution Notes
-
-- Extremely remote location
-- Dense swampland, difficult access
-- Politically unstable region
-- Limited scientific access
-- Overlaps with Mokele-mbembe territory
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Likouala swamps | Likouala Department, Republic of the Congo |  | 1954–1981 |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-Indigenous Congo Basin peoples have traditional knowledge of large dangerous creature in swamps. Part of local natural history passed down through generations. First Western documentation occurred in 1980s.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-1980s | Traditional knowledge | Local communities aware of creature |
-| 1981 | Roy Mackal expeditions | First Western documentation and investigation |
-| 1980s | Witness interviews | Consistent testimonies collected from multiple tribes |
-| 2000s | William Gibbons expeditions | Follow-up investigations, additional interviews |
-
-### Modern Era
-
-Limited active research due to remote location and political instability in region. Primarily relies on local testimonies. No physical evidence has been obtained. Remains highly speculative cryptid.
-
----
-
-## Notable Cases
-
-### Roy Mackal Witness Interviews (1981) ⭐
-
-> **Date**: 1981
-> **Location**: Likouala region, Congo Basin
-> **Witnesses**: Multiple (local villagers, hunters, fishermen)
-> **Evidence**: Verbal testimonies only
-
-Roy Mackal collected testimonies from multiple local witnesses across different tribes in the Likouala region during his expeditions searching for Mokele-mbembe. Descriptions were remarkably consistent:
-- Elephant-sized creature with single horn on snout
-- Heavy tail, brownish-gray color
-- Extremely aggressive
-- Attacks elephants and hippopotamuses
-- Gores victims with horn
-- Semi-aquatic lifestyle
-- Distinct from any known animal
-
-Witnesses from different tribes who had no contact with each other provided similar descriptions. Many witnesses were unfamiliar with dinosaurs or ceratopsians, making independent convergence on similar descriptions notable.
-
-**Credibility Assessment**: Low — No physical evidence, no photographs, no scientific observation. However, consistency across independent testimonies from witnesses unfamiliar with dinosaur concepts is noteworthy. Could represent cultural tradition, misidentification, or unknown animal.
-
----
-
-*See [/sightings](/sightings) for complete sighting database.*
-
----
+|---|---|---|
+| 1954-01-01 | Lucien Blancou publishes the first scientific-journal mention of Emela-ntouka in 'Mammalia' | Introduction of the name into the scientific / cryptozoological literature |
+| 1980-01-01 | Roy P. Mackal leads the first of two expeditions into the Likouala region in search of Mokele-mbembe and Emela-ntouka | Most prominent field investigation of the cryptid |
+| 1981-01-01 | Mackal's second Congo expedition with Richard Greenwell and Marcellin Agnagna | Continued data-gathering on Emela-ntouka and other Congo Basin cryptids |
+| 1987-01-01 | Roy P. Mackal publishes 'A Living Dinosaur? In Search of Mokele-Mbembe', which discusses Emela-ntouka and proposes a ceratopsian-survival hypothesis | Major book-length cryptozoological treatment |
 
 ## Evidence
 
-### Physical Evidence
+### Documentary
 
-**None.** No physical evidence of any kind has been obtained:
-- No bones or fossils
-- No photographs or video
-- No hair, skin, or tissue samples
-- No footprints or tracks documented
-- No horn specimens
-- No kills or carcasses examined
-
-### Testimonial Evidence
-
-| Type | Description | Status |
-|------|-------------|--------|
-| Witness testimonies | Consistent descriptions from multiple tribes | Unverified |
-| Traditional knowledge | Local cultural knowledge of creature | Cultural |
-
-**Note**: Emela-ntouka is based entirely on witness testimonies. No physical evidence of any kind exists.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Blancou (1954) Mammalia note | 1954 | Lucien Blancou's note on the mammals of French Equatorial Africa, in which Emela-ntouka is named in scientific print for the first time. | verified |
+| Mackal (1987) A Living Dinosaur? | 1987 | Roy P. Mackal's account of his 1980 and 1981 Likouala expeditions, including discussion of Emela-ntouka. | disputed |
 
 ---
-
 ## Theories & Explanations
 
-### Cryptozoological Theories
+### Scientific
 
-1. **Surviving Ceratopsian Dinosaur**
-   Emela-ntouka represents a surviving population of ceratopsian dinosaurs (Triceratops relatives) adapted to swamp environment. Horn, body shape, and aggressive behavior consistent with ceratopsians.
-   
-   **Problems**: Ceratopsians went extinct 66 million years ago. No fossil evidence in Africa. Dinosaur survival to present extremely unlikely. No physical evidence.
+**Surviving ceratopsian dinosaur** _(Roy P. Mackal)_
 
-2. **Unknown Large Mammal**
-   Could be an undiscovered large mammal, possibly rhinoceros relative adapted to semi-aquatic lifestyle.
-   
-   **Problems**: No rhinos currently in Congo Basin (historically present in parts of Central Africa). Would require large breeding population. No physical evidence.
+Emela-ntouka is interpreted as a relict population of a single-horned ceratopsian dinosaur (Mackal compared it to forms in the Styracosaurus / Triceratops lineage) surviving in the swamps of the Congo Basin.
 
-### Skeptical Explanations
+**Aquatic / semi-aquatic rhinoceros** _(Loren Coleman)_
 
-1. **Misidentification of Known Animals**
-   Could be misidentified elephants, hippopotamuses, or other known animals. However, local witnesses familiar with these animals describe Emela-ntouka as distinct.
+Loren Coleman and others argue that Emela-ntouka, if real, is more likely an unknown semi-aquatic rhinoceros than a surviving dinosaur.
 
-2. **Cultural Folklore**
-   Traditional story or cultural belief with no biological basis. Part of regional cryptid traditions including Mokele-mbembe. Serves cultural function (warnings, stories).
+### Skeptical
 
-3. **Extinct Rhinoceros Memory**
-   Cultural memory of extinct black rhinoceros populations that once inhabited parts of Central Africa. Description fits rhinoceros behavior and morphology.
-   
-   **Supporting**: Rhinos historically present in parts of Central Africa, now extinct from region. Local knowledge could preserve memory.
+**Misidentification of black rhinoceros / forest elephant** _(Mainstream zoologists, Skeptical commentators)_
 
----
+Encounters with the black rhinoceros (formerly more widespread in central Africa) or with aggressive forest elephants and hippos may have been re-described over generations as a single horned aquatic monster.
 
-## Cultural Significance
+**Folkloric composite** _(Folklorists of central Africa)_
 
-### Indigenous Perspectives
+Emela-ntouka may be a regional variant of a wider African 'water-rhino' folklore (Chipekwe, Irizima), combining genuine animal encounters with mythical embellishment.
 
-> ⚠️ **Cultural Sensitivity Note**: Lingala and Congolese indigenous knowledge should be respected. These accounts represent local natural history understanding passed through generations. Respect traditional knowledge and territory. Region is politically sensitive.
 
-Local communities generally consider Emela-ntouka a real, dangerous animal to be avoided:
-- **Practical warnings**: Hunters and fishermen avoid certain swamp areas
-- **Natural history knowledge**: Part of traditional ecological understanding
-- **Consistent descriptions**: Multiple tribes have similar accounts
-- **Distinct from other animals**: Described as different from known species
+## Indigenous Perspectives
 
-### Popular Culture
+> ⚠️ **Local accounts predate and exceed the cryptozoological framing; Western 'cryptid hunt' narratives should not be presented as the primary cultural meaning.**
 
-**Literature**:
-- Mackal, R. (1987). *A Living Dinosaur? In Search of Mokele-Mbembe*
-- Various cryptozoology encyclopedias
-- Expedition reports
+**Cultures**: Lingala-speaking peoples of the Republic of the Congo and DRC
 
-**Film/TV**:
-- Various cryptozoology documentaries
-- MonsterQuest episodes
-- Congo cryptid features
+The figure is part of long-standing local knowledge of swamp ecology; reports were taken seriously enough to inform colonial-era game management.
 
-**Other**:
-- Part of broader Congo dinosaur cryptid interest
-- Associated with Mokele-mbembe expeditions
+## Popular Culture
+
+**Literature**: A Living Dinosaur? In Search of Mokele-Mbembe — Roy P. Mackal (1987)
+
+**Other**: Recurring discussion in cryptozoology magazines and online communities
 
 ---
+## Research
 
-## Research & Investigation
+### Researchers
 
-### Notable Researchers
-
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| Roy Mackal | University of Chicago | 1980s expeditions to Congo, first Western documentation |
-| William Gibbons | Independent researcher | Multiple expeditions, witness interviews |
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Lucien Blancou | French colonial wildlife service / former Likouala game inspector | Introduced Emela-ntouka into the scientific literature in 1954 (Mammalia) | mid-20th century |
+| Roy P. Mackal | University of Chicago (biochemistry); International Society of Cryptozoology | Led the 1980 and 1981 Likouala expeditions and proposed the ceratopsian-survival hypothesis | 1980–1987 |
+| Richard Greenwell | International Society of Cryptozoology / University of Arizona | Co-led the 1980 Likouala expedition with Mackal | 1980 |
+| Marcellin Agnagna | Congolese biologist | Local scientific collaborator on the Mackal expeditions | 1980–1981 |
+| Loren Coleman | International Cryptozoology Museum | Argued for an aquatic-rhinoceros interpretation rather than ceratopsian survival | 1980s–present |
 
 ### Organizations
 
-No formal organizations currently researching Emela-ntouka.
+- [International Society of Cryptozoology (defunct)](#) — Sponsor of the Mackal Congo expeditions
+- [International Cryptozoology Museum](https://cryptozoologymuseum.com) — Cryptozoological curation including Congo Basin reports
 
-### Ongoing Studies
-
-Very limited active research due to:
-- Political instability in region
-- Remote, dangerous location
-- Difficult access (dense swampland)
-- Lack of funding
-- No physical evidence to analyze
-- Occasional expeditions by cryptozoology enthusiasts
+No active large-scale field investigations of Emela-ntouka are currently documented; the figure remains an unverified cryptid in the secondary literature.
 
 ---
+## Sources
 
-## Why Emela-ntouka Is Highly Speculative
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Unlike some cryptids with physical evidence, Emela-ntouka has significant challenges:
-
-**Against Existence**:
-1. **Zero physical evidence**: No bones, photos, hair, footprints, or any physical trace
-2. **Biological implausibility**: Dinosaur survival for 66 million years extremely unlikely
-3. **Population requirements**: Would need breeding population, yet never documented
-4. **No fossil evidence**: No ceratopsian fossils ever found in Africa
-5. **Geographic anomaly**: Ceratopsians were North American/Asian, not African
-
-**For Consideration**:
-1. **Consistent testimonies**: Independent witnesses from different tribes give similar descriptions
-2. **Remote habitat**: Likouala swamps are extremely remote and little-explored
-3. **Witness credibility**: Local people familiar with all known regional wildlife
-4. **Unfamiliarity with dinosaurs**: Witnesses unlikely to fabricate dinosaur-like descriptions
-5. **Other discoveries**: New large species occasionally discovered in Congo Basin
-
-**Most Likely Explanations**:
-- Cultural tradition or folklore
-- Misidentification of known animals
-- Cultural memory of extinct rhinoceros populations
-- Hoax or fabrication
-
----
-
-## Comparison: Emela-ntouka vs Mokele-mbembe
-
-| Aspect | Emela-ntouka | Mokele-mbembe |
-|--------|--------------|---------------|
-| Description | Rhinoceros/ceratopsian-like | Long-necked, sauropod-like |
-| Horn | Single horn on snout | No horn |
-| Behavior | Extremely aggressive | Shy, herbivorous |
-| Fame | Lesser-known | More famous |
-| Evidence | None | None |
-
-Both are Congo Basin cryptid "dinosaurs" with no physical evidence.
-
----
 
 ## How to Report a Sighting
 
-If you've witnessed Emela-ntouka, please submit a report:
-
 1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
-2. **Required Information**:
-   - Date and time (as precise as possible)
-   - Exact location (coordinates preferred)
-   - Weather conditions
-   - Detailed description
-   - Any evidence (photos, video, physical traces)
-   - Witness information (can be anonymized)
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for full submission requirements.
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const emelaNtouka = await wyrd.getPhenomenon('emela-ntouka');
-const sightings = await wyrd.getSightings('emela-ntouka');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/emela-ntouka/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Mackal, R. (1987). *A Living Dinosaur? In Search of Mokele-Mbembe*
-- Gibbons, W. (Various). Congo Basin expedition reports
-- Local witness testimonies
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
-See [CHANGELOG.md](CHANGELOG.md) for full history.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Sighting](../../issues/new?template=sighting_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
